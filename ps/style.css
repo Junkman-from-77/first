@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: chocolate;
+    padding: 20px;
+}
+
+header a{
+    color: black;
+    text-decoration: none;
+    border: 2px solid chocolate;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+header a:hover{
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+header h1{
+    text-align: center;
+}
+
+section{
+    background-color: bisque;
+}
+
+section h3{
+    text-align: center;
+}
+
+.memz{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.memz img{
+    height: 150px;
+}
+
+.coffee{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.coffee img{
+    height: 300px;
+}
+
+.coffee_2{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.coffee_2 img{
+    height: 300px;
+}
+
+.msk{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.msk img{
+    height: 300px;
+}
+
+.msk_2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    gap: 10px;
+}
+
+.msk_2 img{
+    height: 300px;
+}
+
+
+footer{
+    padding: 10px 0 10px 0;
+    background-color: rgb(255, 204, 141);
+    text-align: center;
+}
