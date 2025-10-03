@@ -106,24 +106,24 @@ header{
 }
 
 .column1{
-    width: 24%;
+    width: 22%;
     padding: 5px;
     margin-bottom: 1px;
 }
 
 .column2{
-    width: 24%;
+    width: 22%;
     padding: 5px;
     margin-bottom: 1px;
 }
 
 .column3{
-    width: 24%;
+    width: 22%;
     padding: 5px;
 }
 
 .column4{
-    width: 24%;
+    width: 22%;
     padding: 5px;
 }
 
@@ -149,7 +149,7 @@ span{
 
 footer{
     width: 100%;
-    padding: 20 0 20 0;
+    padding: 20px 0 20px 0;
     background-color: rgb(255, 204, 141);
     position: absolute;     /*времянка*/
     bottom: 0px;
