@@ -60,3 +60,9 @@ footer{
     position: absolute;
     bottom: 0px;
 }
+
+@media (max-width: 1279px) {
+    footer{
+	position: static;
+    }
+}
